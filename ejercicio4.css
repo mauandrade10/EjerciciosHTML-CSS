@@ -1,0 +1,38 @@
+body{
+    background-color: #242433;
+    display: flex;
+    justify-content: center;
+}
+
+main{
+    width: 50%;
+}
+
+div{
+    background-color: #A8E3F9;
+    border: 10px solid #BBBBBB;
+}
+
+.chico-azul{
+    width: 100%;
+    height: 120px;
+    border-top: 20px solid #BBBBBB;
+}
+
+.grande-azul{
+    width: 100%;
+    height: 180px;
+    border-top: 0;
+}
+
+.container{
+    display: flex;
+    width: 102.2%;
+    border: 0;
+}
+
+.mediano-azul-margin-derecho,.mediano-azul{
+    width: 100%;
+    height: 180px;
+    border-top: 0;
+}
